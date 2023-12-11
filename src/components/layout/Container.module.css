@@ -1,0 +1,33 @@
+.container {
+  width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+.min-height {
+  min-height: 75vh;
+}
+
+.start {
+  justify-content: flex-start;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.social_list svg {
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.copy_right {
+  margin-top: 2em;
+}
+
+.copy_right span {
+  font-weight: bolder;
+  color: #ffbb33;
+}
