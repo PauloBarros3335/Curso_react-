@@ -19,16 +19,14 @@ function ProjectForm() {
         placerholder="Insira o orçamento"
       />
 
-      <div>
-        <select name="category_id">
-          <option disabled>Selecione a categoria</option>
-        </select>
-      </div>
+      <Select name="category_d" text="Selecione a categoria" />
+
       <div>
         <input type="submit" value="Criar projeto" />
       </div>
     </form>
   );
+
   // <form className={styles.form}>
   //   <Input
   //     type="text"

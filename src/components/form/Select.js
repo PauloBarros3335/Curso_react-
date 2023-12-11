@@ -4,9 +4,9 @@ function Select({ text, name, options, handleOnchange, value }) {
   return (
     <div className={styles.form_control}>
       <label htmlFor={name}>{text}:</label>
-      <Select name={name} id={name}>
+      <select name={name} id={name}>
         <options>Selecione uma opção</options>
-      </Select>
+      </select>
     </div>
   );
 }
