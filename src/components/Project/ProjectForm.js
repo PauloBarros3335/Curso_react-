@@ -5,14 +5,19 @@ import styles from "./ProjectForm.module.css";
 
 function ProjectForm() {
   return (
-    <form>
-      <div>
-        <input type="text" placeholder="Isira o no nome do projeto" />
-      </div>
-
-      <div>
-        <input type="number" placeholder="Insira o orçamento total" />
-      </div>
+    <form className={styles.form}>
+      <Input
+        type="text"
+        text="Nomedo projeto"
+        name="name"
+        placerholder="Insira o none do projeto"
+      />
+      <Input
+        type="number"
+        text="Orçamento do projeto"
+        name="budget"
+        placerholder="Insira o orçamento"
+      />
 
       <div>
         <select name="category_id">
