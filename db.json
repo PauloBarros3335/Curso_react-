@@ -1,24 +1,82 @@
 {
-  "projects": [],
-"categories": [
-{
-"id": 1,
-"name":"Infra"  
-},
-{
-"id": 2,
-"name":"Desevolvimento"  
-},
-{
-"id": 3,
-"name":"Design"  
-},
-{
-"id": 4,
-"name":"Planejamento"  
+  "projects": [
+    {
+      "name": "Paulo Henrique de Barros",
+      "budget": "6",
+      "category": {
+        "id": "2",
+        "name": "Desevolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "API-CARROS",
+      "budget": "55555",
+      "category": {
+        "id": "2",
+        "name": "Desevolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Ygor desenvolvedor ",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desevolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Paulo Henrique de Barros",
+      "budget": "2000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Paulo Henrique de Barros",
+      "budget": "7",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desevolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
 }
-
-]
-
-}
-
