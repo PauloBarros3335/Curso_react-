@@ -15,13 +15,15 @@ function NewProject() {
       headers: {
         "Content-type": "application/json",
       },
-      body: JSON.stringify(project, { message: "Projeto criado com sucesso!" }),
+      body: JSON.stringify(project),
     })
       .then((resp) => resp.json())
       .then((data) => {
         console.log(data);
 
-        navegar("/projects");
+        navegar("/projects", {
+          state: { message: "Projeto criado com sucesso" },
+        });
       })
       .catch((err) => console.log(err));
 
