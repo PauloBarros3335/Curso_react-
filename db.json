@@ -418,6 +418,85 @@
       "cost": 0,
       "services": [],
       "id": 61
+    },
+    {
+      "category": {
+        "id": "2",
+        "name": "Desevolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 62
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 63
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 64
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 65
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 66
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 67
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 68
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 69
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 70
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 71
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 72
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 73
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 74
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 75
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 76
     }
   ],
   "categories": [
