@@ -1,3 +1,4 @@
+import React from "react";
 import styles from "./Select.module.css";
 
 function Select({ text, name, options, handleOnchange, value }) {
