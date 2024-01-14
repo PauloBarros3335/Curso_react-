@@ -17,17 +17,6 @@
         }
       ],
       "id": 1
-    },
-    {
-      "name": "Suave",
-      "budget": "3333",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
     }
   ],
   "categories": [
